@@ -3,6 +3,8 @@
 
 Transform Rhino model of complex steel joints into Abaqus model in Grasshopper (including geometric information and material information).
 
+[论文] (https://doi.org/10.1016/j.jcsr.2024.109086)
+
 ![架构Framework](https://github.com/lufengWong/Rhino2Abaqus-GH/blob/main/Pics/Frame.png)
 
 ![操作](https://github.com/lufengWong/Rhino2Abaqus-GH/blob/main/Pics/Rhino2Abaqus.gif)
